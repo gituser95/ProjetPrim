@@ -12,7 +12,7 @@ import datetime
 import time
 
 # ouverture du fichier Excel ::::
-wb = xlrd.open_workbook('projet_prim.xlsx')
+wb = xlrd.open_workbook('p_prim.xlsx')
 # feuilles dans le classeur
 sheet_names =wb.sheet_names()
 # # # # # #
